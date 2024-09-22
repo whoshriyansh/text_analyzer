@@ -1,7 +1,8 @@
 import React from "react";
+import TextAnalyzer from "./components/TextAnalyzer";
 
 const App = () => {
-  return <div className="text-red-700">Hello Text Analyzer</div>;
+  return <TextAnalyzer />;
 };
 
 export default App;
