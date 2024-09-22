@@ -1,7 +1,9 @@
+
 # Text Analyzer
 
 This aaplication is based on a - Assignment: Real-Time Text Analysis and String Replacement
 
+[Live App Url](http://13.201.226.205:3000/)
 # Features:
 
 - Unique Word Count: Displays the number of unique words in the text.
@@ -17,7 +19,11 @@ This aaplication is based on a - Assignment: Real-Time Text Analysis and String 
 ## Tech Stack and Libraries
 
 **Client:** React, Tailwind CSS, Docker, Github Actions, Amazon Web Services- EC2 Instance.
+## Screenshots
 
+![App Screenshot](https://i.postimg.cc/WpryWgwq/Screenshot-from-2024-09-22-08-23-39.png)
+
+![App Screenshot](https://i.postimg.cc/7YkWphKs/Screenshot-from-2024-09-22-08-24-05.png)
 ## Run on your System
 
 Clone the project
@@ -49,13 +55,10 @@ Start the app in Production Env.
 ```bash
 npm run build
 ```
-
 ## Authors
 
 - [@whoshriyansh](https://www.linkedin.com/in/whoshriyansh/)
-
 ## 🔗 Links
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://whoshriyansh.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/whoshriyansh/)
